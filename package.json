@@ -1,9 +1,9 @@
 {
-  "name": "my-app",
-  "version": "0.2.0",
-  "author": "Your Name",
-  "description": "React-TypeScript-Electron sample with Create React App and Electron Builder",
-  "homepage": ".",
+  "name": "weebo_app",
+  "version": "0.0.1",
+  "author": "DirtLandStudios",
+  "description": "An electron app for streaming anime",
+  "homepage": "https://github.com/DirtLandStudios/WeeboApp",
   "main": "build/electron/main.js",
   "private": true,
   "dependencies": {
